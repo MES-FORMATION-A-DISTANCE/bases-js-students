@@ -1,0 +1,10 @@
+let longueur = prompt("Longueur : ");
+longueur = parseInt(longueur);
+let largeur = prompt("Largeur : ");
+largeur = parseInt(largeur);
+console.log(`Longueur : ${longueur}`);
+console.log(`Largeur : ${largeur}`);
+let perimetre = 2 * (longueur + largeur);
+let surface = longueur * largeur;
+console.log(`Perimetre : ${perimetre}`);
+console.log(`Surface : ${surface}`);
