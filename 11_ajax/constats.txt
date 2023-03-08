@@ -1,0 +1,2 @@
+- Duplication de l'URL
+- Duplication de la logique des appels reseaux
